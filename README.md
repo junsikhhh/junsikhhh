@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/junsik_ky/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 
 ### 📚 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=yellow">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsikhhh&show_icons=true&theme=monokai)
 
