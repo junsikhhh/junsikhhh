@@ -7,6 +7,7 @@
 
 ### 📚 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></a>
+
 This is beginner of programming.
 
 I'm trying to learn Python
