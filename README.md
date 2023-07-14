@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <a href="https://www.instagram.com/junsik_ky/" target="_blank"><img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white">
 
+
 This is beginner of programming.
 
 I'm trying to learn Python
