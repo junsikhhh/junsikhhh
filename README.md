@@ -2,7 +2,8 @@
 
 👋 Hi there
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"> <a href=”https://www.instagram.com/junsik_ky/"><img src="https://img.shields.io/badge/"blank"-E4405F?style=flat&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<a href=”https://www.instagram.com/junsik_ky/"><img src="https://img.shields.io/badge/junsik-E4405F?style=flat&logo=instagram&logoColor=white">
 
 This is beginner of programming.
 
