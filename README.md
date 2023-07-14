@@ -8,6 +8,8 @@
 ### 📚 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 
-This is beginner of programming.
+I am a beginner of programming.
+I just started to learn Python.
 
-I'm trying to learn Python
+If there is any comment about code,
+Please contact me.
