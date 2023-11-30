@@ -19,6 +19,7 @@
 <span><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Notion-white?style=flat&logo=Notion&logoColor=000000"></span>
 <span><img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"></span>
 
 
 
