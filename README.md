@@ -14,9 +14,10 @@
 <span><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"></span>
 
-### Cowork tools
+### ✨ Cowork tools
 <span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=GitLab&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=000000"></span>
 
 
 
