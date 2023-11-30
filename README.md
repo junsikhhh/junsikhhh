@@ -12,7 +12,7 @@
 <span><img src="https://img.shields.io/badge/JavaScript-5b5c5c?style=flat&logo=JavaScript&logoColor=F7DF1E"></span>
 <span><img src="https://img.shields.io/badge/Vue.js-f9f9f9?style=flat&logo=Vue.js&logoColor=4FC08D"></span>
 <span><img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=Vuetify&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/Django-white?style=flat&logo=Django&logoColor=092E20"></span>
+<span><img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"></span>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsikhhh&show_icons=true&theme=monokai)
 
