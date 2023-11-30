@@ -5,9 +5,12 @@
 ### 💌 Social
 <a href="https://www.instagram.com/junsik_ky/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 
-### 📚 Languages
+### 📚 Tech Stack
 <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=html5&logoColor=white"></span>
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsikhhh&show_icons=true&theme=monokai)
 
