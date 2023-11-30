@@ -10,6 +10,7 @@
   <span><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></span>
   <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"></span>
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsikhhh&show_icons=true&theme=monokai)
 
 I am a beginner of programming.
