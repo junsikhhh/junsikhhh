@@ -7,7 +7,7 @@
 
 ### 📚 Languages
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=#E34F26">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junsikhhh&show_icons=true&theme=monokai)
 
 I am a beginner of programming.
